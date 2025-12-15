@@ -1,0 +1,11 @@
+GOBP_GLUTAMINE_TRANSPORT
+> The directed movement of glutamine, 2-amino-4-carbamoylbutanoic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. [GOC:ai]
+LEP
+SLC1A4
+SLC1A5
+SLC38A1
+SLC38A2
+SLC38A3
+SLC38A5
+SLC38A6
+SLC38A7

@@ -1,0 +1,50 @@
+CD45	Normal.mucosa	CD8.T.cells	Cytotoxic.cells	DC	Macrophages	Treg	Mast.cells	Th2.cells	Neutrophils	T.helper.cells	NK.cells	Th1.cells	Tcells	Bcells	TIS	Cluster1	Cluster2	M1	M2	M1_v2	M2_v2	M1_Joan	M2_Joan	M2_SuP_FAO	M2_SuP_M2	M2_Jha
+PTPRC	C1R	PRF1	KLRK1	CD1E	CD84	FOXP3	CTSG	BIRC5	CSF3R	ATF2	SPN	CTLA4	CD3G	TNFRSF17	CD3D	CMKLR1	CCR4	STAT1	STAT6	CD86	STAT6	CCL3	ARG1	CPT1A	ARG1	CD206
+	COL3A1	CD8A		CCL22	CYBB		MS4A2			NUP107		LTA	CD96	CD19	IDO1	CLEC4A	IL7R	IRF5	IRF4	STAT1	IL27RA	IL1	IL4	ACADM	CCL2	CD301
+		GZMM		CD1A	CD163							CD38	SH2D1A	MS4A1	CIITA	CCR1	CD28	BTK	NFKB1	SOCS3	IL27	IL6	CD163	HADHA	IL4	CCL22
+		CD8B			CD68								CD6	BLK	CD3E	CD84	CSF2RB	P2RY2 	PPARG	SLAMF1	CHI3L1	TNF	CD206	EHHADH	IL13	
+		FLT3LG											CD3D		CCL5	CD180	CTLA4	SOCS3	EPAS1	TNF	MRC1			ECHS1	CD36	
+													LCK		GZMK	CD37	CCR7	INHBA	IL21	IL6	RAX			HADH		
+													CD2		CD2	CD33	CCR2	HIF1A	BMP7	FCGR1A	PPARG					
+													CD3E		HLA-DRA	CD4	AMICA1	TNFA	FABP4	IL12B	ARG1					
+															CXCL13	C3AR1	CD7	PTGS2	NR1H3	NOS2	CD163					
+															IL2RG	CSF1R	CD27	CCL5	ARG1	HLA-DRB1						
+															NKG7	CD86	CCL5	NOS2	MRC1	CYBB						
+															HLA-E	BTK	CD8A	FCGR1A	RETNLB	IL1B						
+															CXCR6	CD53	CXCR3	IDO1	MRC1	MARCO						
+															LAG3	ITGB2	CD48	SOCS1	TGM2	IL4R						
+															TAGAP	IL10RA	CXCR6	CXCL10	FCER2 	CCR7						
+															CXCL10	CYBB	CD96	IFNG	CCL22	CD80						
+															STAT1	LILRB1	CD3G	LBS	IL4							
+															GZMB	HAVCR2	CD6	CSF2	IL13							
+																SELPLG	CD5	CD68	CD163							
+																LY86	CD247	CD86	HLA-DRB1							
+																FCER1G	CD2	CD80	MRC1							
+																HCK	CD3E	HLA-DRB1	CD200R1							
+																ITGAM	CD3D	IL1R1	TGM2							
+																FCGR1A	SLAMF6	TLR2	TNFRSF6B							
+																TLR7	SH2D1A	TLR4	IL1R							
+																MSR1	ITK	IL1B	IL10							
+																FCGR2A	SLAMF1	IL6	TGFB1							
+																ITGAX	LY9	IL12	IL1							
+																NLRP3	LCK	IL23	CCL17							
+																	IL2RG	CCL10	CCL22							
+																	ICOS	CCL11	CCL24							
+																	IL2RB	CCL5								
+																	ITGAL	CCL8								
+																	PTPRC	CCL9								
+																	SPN	CCL2								
+																	ZAP70	CCL3								
+																	PDCD1	CCL4								
+																	SLAMF7									
+																	PRF1									
+																	LTB									
+																	CD19									
+																	CXCR5									
+																	MS4A1									
+																	CD79A									
+																	TNFRSF17									
+																	POU2AF1									
+																	IL21R									
+																	LTA									
+																	IL12RB1									

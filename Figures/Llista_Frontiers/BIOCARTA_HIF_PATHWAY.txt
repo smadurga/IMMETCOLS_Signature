@@ -1,0 +1,17 @@
+BIOCARTA_HIF_PATHWAY
+> Hypoxia-Inducible Factor in the Cardiovascular System
+ARNT
+ASPH
+COPS5
+CREB1
+EDN1
+EP300
+EPO
+HIF1A
+HSP90AA1
+JUN
+LDHA
+NOS3
+P4HB
+VEGFA
+VHL

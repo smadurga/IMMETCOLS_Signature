@@ -1,0 +1,8 @@
+GOBP_DE_NOVO_IMP_BIOSYNTHETIC_PROCESS
+> The chemical reactions and pathways resulting in the formation of IMP, inosine monophosphate, by the stepwise assembly of a purine ring on ribose 5-phosphate. [GOC:mah, ISBN:0716720094]
+ADSL
+ATIC
+GART
+PAICS
+PFAS
+PPAT

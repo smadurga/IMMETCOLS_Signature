@@ -1,0 +1,5 @@
+gens down-regulats
+CXCL9
+CXCL10
+CXCL11
+CXCR3

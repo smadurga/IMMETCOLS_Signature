@@ -1,0 +1,7 @@
+gens up-regulats
+CTNNB1
+AXIN2
+CCND1
+MYC
+TCF
+LEF

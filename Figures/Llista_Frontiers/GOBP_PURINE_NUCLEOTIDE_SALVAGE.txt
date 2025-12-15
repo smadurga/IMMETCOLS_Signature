@@ -1,0 +1,9 @@
+GOBP_PURINE_NUCLEOTIDE_SALVAGE
+> Any process which produces a purine nucleotide from derivatives of it, without de novo synthesis. [GOC:jp]
+ADA
+ADK
+AMPD1
+AMPD2
+AMPD3
+APRT
+HPRT1

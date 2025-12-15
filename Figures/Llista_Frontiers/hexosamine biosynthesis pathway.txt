@@ -1,0 +1,17 @@
+GOMF_HEXOSAMINIDASE_ACTIVITY
+> Catalysis of the cleavage of hexosamine or N-acetylhexosamine residues (e.g. N-acetylglucosamine) residues from gangliosides or other glycoside oligosaccharides. [ISBN:0721662544]
+CEMIP
+CEMIP2
+GM2A
+HEXA
+HEXB
+HEXD
+HYAL1
+HYAL2
+HYAL3
+HYAL4
+NAGA
+NAGLU
+NAGPA
+OGA
+SPAM1
