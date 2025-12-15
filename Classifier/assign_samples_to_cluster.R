@@ -1,8 +1,8 @@
 library("caret")
-neuralnet_fit_loaded=readRDS("D:/OneDrive/post-doc/colaboracions/clusters clinics/Gens extesos/neuralnet_fit.rds") #Load trained neural net 
+neuralnet_fit_loaded=readRDS("neuralnet_fit.rds") #Load trained neural net 
 sig_features=c("TGFB1","ZEB1","FAP","ZEB2","GLUL","ENTPD1","GOT1","LDHA","TWIST1","GLS") #List of features of the signature
 gene_name_column="Gene.name" #Column with gene id
-gene_data_file="D:/OneDrive/Colon/Busca de signatures/TCGA/vst_gene_expression/TCGA_MSS_COAD_gene_expression_vst_mod.csv" #File with gene expression. Must only have a column with gene names followed by columns with the normalyzed log like gene expression for each patient
+gene_data_file="TCGA_MSS_COAD_gene_expression_vst_mod.csv" #File with gene expression. Must only have a column with gene names followed by columns with the normalyzed log like gene expression for each patient
 
 gene_data=read.csv(gene_data_file,header = T) #Read gene data
 #Select only signature genes
