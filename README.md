@@ -11,3 +11,5 @@ Includes the main algorithm for classifying samples into the three clusters defi
 **Figures/**
 
 Contains heatmaps generated after classification, showing the distribution of samples across the three clusters for different datasets. 
+
+![Pipeline](Figures/Esquema_IMMETCOLS.png)
