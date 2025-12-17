@@ -1,4 +1,4 @@
-# IMMETCOLS_Signature
+# IMMETCOLS Signature
 IMMETCOLS Immune-Metabolic Signature for Colorectal Cancer: Functional and Prognostic Stratification 
 
 This repository contains resources developed for classifying samples according to the IMMETCOLS signature, a model designed to identify three molecular subtypes in transcriptomic data.
