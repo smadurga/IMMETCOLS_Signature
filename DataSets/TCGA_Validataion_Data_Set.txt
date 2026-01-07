@@ -1,0 +1,4 @@
+TCGA Set (RNAseq and Pan-Cancer Validation)
+The study utilized data from The Cancer Genome Atlas (TCGA) to validate the findings in both primary colorectal tumors and other cancer types. 
+
+-Primary CRC: Data from 456 primary tumor samples were used, including RNAseq gene counts, clinical information, and mutation data (such as KRAS and BRAF) .  

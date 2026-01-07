@@ -1,0 +1,8 @@
+ Training Dataset (mCRC Cohort)
+The core of the study began with a training set of 77 metastatic colorectal cancer (mCRC) samples.
+
+- Purpose: These samples were used to establish the three distinct clusters (IMC1–3) and to train the neural network classifier using a simplified 10-gene signature (ENTPD1, FAP, GLS1, GLUL, GOT1, LDHA, TGFB1, TWIST1, ZEB1, ZEB2).
+
+-Technology: Analyzed using a custom 770-gene expression panel on the NanoString nCounter platform.
+
+Availability: These data are deposited in the GEO repository under accession number GSE206613

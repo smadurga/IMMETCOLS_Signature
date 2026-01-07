@@ -1,0 +1,5 @@
+GSE1 Validation Set (Microarray Data)
+The GSE1 set represents a large-scale integration of eight independent cohorts, totaling 1,328 colorectal cancer samples.
+• Composition: It includes samples from GEO accessions GSE14333, GSE17536, GSE31595, GSE33113, GSE38832, GSE39084, GSE39582, and GSE17537.
+• Technical Details: Raw gene expression profiles were obtained from Affymetrix GeneChip U133 Plus 2.0 arrays .
+• Usage: This set was crucial for performing overall survival (OS) analyses and correlating the IMMETCOLS signature with Consensus Molecular Subtypes (CMS) .

@@ -1,0 +1,2 @@
+GSE2 Set (Independent Validation)
+The GSE2 set (accession GSE131418) provided an additional layer of validation with 1134 CRC samples.
